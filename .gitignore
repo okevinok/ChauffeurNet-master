@@ -1,0 +1,5 @@
+.idea
+*.pyc
+data/*
+experiments/*
+*.mp4
